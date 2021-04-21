@@ -24,7 +24,8 @@ Clearfix digunakan untuk mengatur element setelah float element. Property clear 
 ![Screenshot_33](https://user-images.githubusercontent.com/81457697/115220266-882cb480-a132-11eb-8a99-41c52288f2fa.png)
 
 #hasil dari layout kontak
-![Screenshot_34](https://user-images.githubusercontent.com/81457697/115220289-8fec5900-a132-11eb-9563-009ff0bef773.png)
+![Screenshot_46](https://user-images.githubusercontent.com/81457697/115478990-959c8880-a271-11eb-9b96-b677f880988e.png)
+
 
 
 
